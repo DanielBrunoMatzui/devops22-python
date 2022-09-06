@@ -25,7 +25,8 @@ print(my_new_string)
 # Input a number and assign it to a variable, print the value doubled
 value = int(input("Double the value: "))
 print(value * 2)
- 
+
+#Test 
 
 
 

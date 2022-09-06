@@ -26,7 +26,7 @@ print(my_new_string)
 value = int(input("Double the value: "))
 print(value * 2)
 
-#Test 
+
 
 
 

@@ -25,9 +25,12 @@ print(my_new_string)
 # Input a number and assign it to a variable, print the value doubled
 value = int(input("Double the value: "))
 print(value * 2)
-
-
-
+#Input a string i.e `hello` and assign it to a variable, print the string repeated `hellohello`
+new_string = input("Greetings: ")
+print(new_string * 2)
+#Input a float and assign it to a variable, print the value divided by 3.5
+new_value = float(input("Divided the value by 3.5: "))
+print(new_value / 3.5)
 
 
 
